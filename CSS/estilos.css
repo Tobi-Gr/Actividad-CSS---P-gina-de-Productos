@@ -1,0 +1,62 @@
+body { 
+    background-color: #DBDFEA;
+}
+
+.header {
+    padding-left: 30px;
+    padding-top: 30px;  
+   
+}
+.header h3{
+    text-align: center;
+    padding-bottom: 10px;
+    font-family: 'Gill Sans';
+    color: #615894;
+}
+.header mark
+{
+    text-align: left;
+    background-color: #615894;
+    color: #DBDFEA;
+
+}
+
+.nombre_provisorio
+{
+    background-color: #615894;
+    text-align: center;
+}
+
+.nombre_provisorio img
+{
+    width: 57.7em;
+    float:left;
+}
+
+.nombre_provisorio h1
+{
+    color: #DBDFEA;
+    font-family: 'Times New Roman';
+}
+
+.nombre_provisorio h3
+{
+    color: #DBDFEA;
+    font-family:'Gill Sans';
+}
+
+.nombre_provisorio mark
+{
+    background-color: #DBDFEA;
+    color: #615894;
+    font-family:'Gill Sans';
+    padding-top: 0.5em; /*AGREGARLE POR LOS CUATRO LADOS*/
+}
+
+/*
+#615894 = violeta + oscuro
+#DBDFEA = violeta claro
+#9D5353 = naranja 
+gill sans- texto
+times new roman - titulos
+*/
