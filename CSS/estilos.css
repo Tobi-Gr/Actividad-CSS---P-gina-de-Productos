@@ -25,11 +25,12 @@ body {
 {
     background-color: #615894;
     text-align: center;
+    padding-bottom: 15.15em;
 }
 
 .nombre_provisorio img
 {
-    width: 57.7em;
+    width: 50em;
     float:left;
 }
 
@@ -37,12 +38,14 @@ body {
 {
     color: #DBDFEA;
     font-family: 'Times New Roman';
+    padding-top: 6em;
 }
 
 .nombre_provisorio h3
 {
     color: #DBDFEA;
     font-family:'Gill Sans';
+    padding-top: 0em;
 }
 
 .nombre_provisorio mark
@@ -50,9 +53,22 @@ body {
     background-color: #DBDFEA;
     color: #615894;
     font-family:'Gill Sans';
-    padding-top: 0.5em; /*AGREGARLE POR LOS CUATRO LADOS*/
+    padding: 0.5em;
+}
+.productos
+{
+    text-align: center;
+    color: #615894;
+    font-family:'Gill Sans';
+    padding-top: 0.5em;
 }
 
+.nuestrasJoyas img
+{
+    padding-left: 5em;
+    width:20em;
+    /*hacer cosito que cambia la escala y encontrar más imágenes para poner*/
+}
 /*
 #615894 = violeta + oscuro
 #DBDFEA = violeta claro
